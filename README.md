@@ -40,6 +40,8 @@
 | 日志 | Python logging |
 | 配置 | YAML |
 
+<img width="1861" height="858" alt="image" src="https://github.com/user-attachments/assets/a5e358c7-e1a3-46ba-b79f-77c3b342a565" />
+
 ## 📦 快速开始
 
 ### 1. 环境准备
